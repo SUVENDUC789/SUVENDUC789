@@ -34,6 +34,9 @@ Currently I'm learning and practicing java , Python and Digital image processing
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 <br>
+<br>
+<br>
+<br>
 <h2>Skills</h2>
 
 <p align="center">
