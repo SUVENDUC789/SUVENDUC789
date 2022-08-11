@@ -21,13 +21,11 @@ Currently I'm learning and practicing java , Python and Digital image processing
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-<!-- [3.2]: https://s4.uupload.ir/files/instagram_6djz.png -->
-<!-- [4.2]: https://s4.uupload.ir/files/telegram_q47u.png -->
+
 
 [1]: https://twitter.com/SuvenduChowdh12
 [2]: https://www.linkedin.com/in/suvendu-chowdhury-ab6141244/
-<!-- [3]: https://www.instagram.com/mosfazli -->
-<!-- [4]: https://telegram.me/MosFazli -->
+
 
 
 <br>
@@ -51,15 +49,4 @@ Currently I'm learning and practicing java , Python and Digital image processing
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
- </div>
- 
- 
- </details>
