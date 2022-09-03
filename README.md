@@ -49,7 +49,9 @@ Currently I'm learning and practicing java , Python and Digital image processing
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
   </a>
 </p>
-
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
+<hr>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact" alt="SUVENDUC789" /></p>
 
