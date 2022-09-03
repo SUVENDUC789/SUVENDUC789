@@ -50,6 +50,6 @@ Currently I'm learning and practicing java , Python and Digital image processing
   </a>
 </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
 
 
