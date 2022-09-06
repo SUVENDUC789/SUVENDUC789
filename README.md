@@ -41,12 +41,12 @@ Currently I'm learning and practicing java , Python and Digital image processing
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,laravel,bash,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,php" />
   </a>
 </p>
 <hr>
