@@ -46,7 +46,7 @@ Currently I'm learning and practicing java , Python and Digital image processing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,php" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,flask,ps,php" />
   </a>
 </p>
 <hr>
