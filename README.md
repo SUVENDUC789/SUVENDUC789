@@ -40,14 +40,14 @@ Currently I'm learning and practicing java , Python and Digital image processing
 <h2>Skills</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  
     <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,laravel,bash,linux" />
-  </a>
+
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+ 
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,flask,ps,php" />
-  </a>
+ 
 </p>
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
