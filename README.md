@@ -23,5 +23,5 @@ alt="SUVENDUC789" />
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en"
 alt="SUVENDUC789" />
-
-
+<hr>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVENDUC789&" alt="SUVENDUC789" />
