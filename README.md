@@ -8,7 +8,8 @@
 I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
 
 <hr>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUVENDUC789&label=Profile%20views&color=0e75b6&style=flat" alt="mriganka56" /> </p>
+<hr>
 <div><img
 src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,laravel,bash,linux" />
 </div>
