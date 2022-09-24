@@ -18,11 +18,4 @@ src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,an
 </div>
 
 <hr>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact"
-alt="SUVENDUC789" />
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en"
-alt="SUVENDUC789" />
-<hr>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVENDUC789&" alt="SUVENDUC789" />
+
