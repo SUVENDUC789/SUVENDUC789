@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Suvendu Chowdhury</h1>
+<h1 align="center">Hi <a href="#" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a> I'm Suvendu Chowdhury</h1>
 
 <p align="center">
 <a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=F74533&vCenter=true&size=23"></a>
@@ -23,18 +23,25 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8244NP/" height="30" width="40" /></a>
 
 </p>
-<hr>
-<hr>
+
+<br>
+<br>
+<br>
+
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
+<a href="#" target="blank">
 <img src="https://skillicons.dev/icons?i=mysql,c,java,python,php,js,django,react,bootstrap" />
+</a>
 </p>
 
 <br>
 
+<a href="#" target="blank">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVENDUC789&" alt="SUVENDUC789" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact" alt="SUVENDUC789" /></p>
+</a>
 
 <br><br><br>
 <br><br><br>
@@ -43,5 +50,5 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
-
-<p align="center"><img src="https://profile-counter.glitch.me/SUVENDUC789/count.svg" /></p>
+<a href="#" target="blank">
+<p align="center"><img src="https://profile-counter.glitch.me/SUVENDUC789/count.svg" /></p></a>
