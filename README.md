@@ -23,7 +23,8 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8244NP/" height="30" width="40" /></a>
 
 </p>
-
+<hr>
+<hr>
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,c,java,python,php,js,django,react,bootstrap" />
