@@ -41,43 +41,44 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVENDUC789&" alt="SUVENDUC789" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact" alt="SUVENDUC789" /></p> -->
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<a href="#" target="blank">
+
+
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <a href="#" target="blank">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
                   
   <br>
  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&theme=nightowl&show_icons=true&count_private=true" />
+  <a href="#" target="blank">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&theme=nightowl&show_icons=true&count_private=true" /></a>
   <br></br>
+  <a href="#" target="blank">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUVENDUC789&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
+</a>
 
   
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUVENDUC789&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<a href="#" target="blank">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUVENDUC789&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></a>
   
   </td>
 </tr>
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="#" target="blank">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>  
 <br>
 
 <br>
 <p align="centre">
- 
+ <a href="#" target="blank">
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUVENDUC789&theme=react-dark)  </p>
 </a>
 <div align="center">
