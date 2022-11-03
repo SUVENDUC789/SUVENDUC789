@@ -77,8 +77,9 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <br>
 
 <br>
-<p align="centre">
  <a href="#" target="blank">
+<p align="centre">
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUVENDUC789&theme=react-dark)  </p>
 </a>
 <div align="center">
