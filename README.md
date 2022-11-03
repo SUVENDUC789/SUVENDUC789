@@ -37,15 +37,14 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <br>
 
-<a href="#" target="blank">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUVENDUC789&" alt="SUVENDUC789" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact" alt="SUVENDUC789" /></p>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUVENDUC789&show_icons=true&locale=en&layout=compact" alt="SUVENDUC789" /></p> -->
 
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<a href="#" target="blank">
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
@@ -65,7 +64,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUVENDUC789&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=15"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUVENDUC789&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -80,7 +79,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUVENDUC789&theme=react-dark)  </p>
-
+</a>
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
