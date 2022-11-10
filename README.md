@@ -22,6 +22,9 @@
 <img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8244NP/" height="30" width="40" /></a>
 
+<a href="https://www.hackerrank.com/suvendu_chok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/suvendu_chok" height="40" width="40" /></a>
+</p>
+
 </p>
 
 <br>
