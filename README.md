@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=mysql,c,java,python,php,js,django,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,js,django,react,bootstrap" />
 </a>
 </p>
 
