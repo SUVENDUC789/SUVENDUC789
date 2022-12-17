@@ -38,6 +38,12 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </a>
 </p>
 
+<h3 align="left">🛠️ Databases 🛠️</h3>
+<p align="left">
+<a href="#" target="blank">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlit3" />
+</a>
+</p>
 <br>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUVENDUC789&show_icons=true&locale=en" alt="SUVENDUC789" /></p>
