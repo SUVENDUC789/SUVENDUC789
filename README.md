@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <h3 align="left">🛠️ Databases 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite3" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </a>
 </p>
 <br>
