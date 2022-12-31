@@ -89,7 +89,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="#" target="blank">
 <p align="centre">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUVENDUC789&theme=react-dark)  </p>
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUVENDUC789&theme=react-dark)  </p-->
 </a>
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
